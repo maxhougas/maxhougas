@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @maxhougas
 - 👀 I’m interested in working on derpy personal projects
-- 🌱 I’m currently learning C
+- 🌱 I’m currently learning C and web development
 - 💞️ I’m looking to collaborate on nothing in particular, but I'm open to ideas
 - 📫 How to reach me *redacted*
 
