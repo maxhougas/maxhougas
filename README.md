@@ -5,6 +5,7 @@
 - 📫 How to reach me *redacted*
 - Patreon https://www.patreon.com/BAATContentGeneration
 - Ko-fi https://ko-fi.com/baatcontentgeneration
+- Hub Docker https://hub.docker.com/u/maxhougas
 - YouTube https://www.youtube.com/@BAAT484
 
 <!---
