@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning C, docker, and web development
 - 💞️ I’m looking to collaborate on nothing in particular, but I'm open to ideas
 - 📫 How to reach me *redacted*
-- Donate to my patreon https://www.patreon.com/BAATContentGeneration
+- Patreon https://www.patreon.com/BAATContentGeneration
+- Ko-fi https://ko-fi.com/baatcontentgeneration
 - https://www.youtube.com/@BAAT484
 
 <!---
